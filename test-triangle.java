@@ -14,7 +14,6 @@ public class test{
     public static  boolean estIsocele(int a, int b, int c){
         boolean resultat=false;
         resultat=(a==b)||(a==c)||(b==c);
-        
         return resultat;
     }
     
